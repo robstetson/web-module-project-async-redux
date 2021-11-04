@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #61dafb;
+display: flex;
+justify-content: center;
+
+}
+button{
+ width: 50%;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
